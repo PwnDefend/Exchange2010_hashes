@@ -1,0 +1,258 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F42C-D0FA
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp
+
+22/07/2009  00:26             5,887 default.aspx
+22/07/2009  00:26             1,992 error.aspx
+               2 File(s)          7,879 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Customize
+
+22/07/2009  00:26             1,449 Calendar.aspx
+22/07/2009  00:26               262 default.aspx
+22/07/2009  00:26               170 General.aspx
+22/07/2009  00:26             1,493 Messaging.aspx
+22/07/2009  00:26               691 Regional.aspx
+22/07/2009  00:26             1,187 Resource.aspx
+22/07/2009  00:26               736 Spelling.aspx
+22/07/2009  00:26               853 VoiceMail.aspx
+22/07/2009  00:26            16,721 VoicemailConfiguration.aspx
+               9 File(s)         23,562 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Helpdesk
+
+22/07/2009  00:26               262 default.aspx
+               1 File(s)            262 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\MyGroups
+
+22/07/2009  00:26               262 default.aspx
+22/07/2009  00:26            23,658 EditDistributionGroup.aspx
+22/07/2009  00:26             2,005 PersonalGroups.aspx
+22/07/2009  00:26             6,152 ViewDistributionGroup.aspx
+               4 File(s)         32,077 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Organize
+
+22/07/2009  00:26               262 default.aspx
+               1 File(s)            262 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\PersonalSettings
+
+22/07/2009  00:26               262 default.aspx
+22/07/2009  00:26             6,839 DeliveryReport.aspx
+22/07/2009  00:26             1,151 DeliveryReportDetail.aspx
+22/07/2009  00:26             8,345 EditAccount.aspx
+22/07/2009  00:26             2,503 EditHotmailSubscription.aspx
+22/07/2009  00:26             6,986 EditImapSubscription.aspx
+22/07/2009  00:26             7,351 EditPopSubscription.aspx
+22/07/2009  00:26             1,585 HomePage.aspx
+22/07/2009  00:26               262 myself.aspx
+22/07/2009  00:26             6,022 NewImapSubscription.aspx
+22/07/2009  00:26             6,445 NewPopSubscription.aspx
+22/07/2009  00:26             2,344 NewSubscription.aspx
+22/07/2009  00:26               177 Password.aspx
+22/07/2009  00:26             1,522 VerifySendAs.aspx
+              14 File(s)         51,794 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Pickers
+
+22/07/2009  00:26               921 AllowedSenderPicker.aspx
+22/07/2009  00:26               898 BypassModerationPicker.aspx
+22/07/2009  00:26               889 DiscoveryMailboxPicker.aspx
+22/07/2009  00:26               854 EsoPicker.aspx
+22/07/2009  00:26               900 GroupPicker.aspx
+22/07/2009  00:26               874 MailboxPicker.aspx
+22/07/2009  00:26               900 ManagerPicker.aspx
+22/07/2009  00:26               902 MemberPicker.aspx
+22/07/2009  00:26               879 ModeratorPicker.aspx
+22/07/2009  00:26               897 OwnerPicker.aspx
+22/07/2009  00:26               892 SearchMailboxPicker.aspx
+22/07/2009  00:26               789 SecurityPrincipalPicker.aspx
+22/07/2009  00:26               886 SourceMailboxPicker.aspx
+              13 File(s)         11,481 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Reporting
+
+22/07/2009  00:26               262 default.aspx
+22/07/2009  00:26            10,610 EditMailboxSearch.aspx
+22/07/2009  00:26             2,150 HealthStatusGraph.aspx
+22/07/2009  00:26               664 MailboxSearches.aspx
+22/07/2009  00:26             6,229 MessageTypePicker.aspx
+22/07/2009  00:26            11,285 NewMailboxSearch.aspx
+22/07/2009  00:26             1,316 Reports.aspx
+22/07/2009  00:26             3,716 ViewMailboxSearch.aspx
+               8 File(s)         36,232 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\RulesEditor
+
+22/07/2009  00:26               262 default.aspx
+22/07/2009  00:26               827 EditInboxRule.aspx
+22/07/2009  00:26             1,839 EditMailRoutingDomains.aspx
+22/07/2009  00:26             1,100 EditTransportRule.aspx
+22/07/2009  00:26               832 NewInboxRule.aspx
+22/07/2009  00:26             1,141 NewTransportRule.aspx
+22/07/2009  00:26               716 ViewInboxRuleDetails.aspx
+22/07/2009  00:26               647 ViewTransportRuleDetails.aspx
+               8 File(s)          7,364 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Security
+
+22/07/2009  00:26               805 BlockOrAllow.aspx
+22/07/2009  00:26               262 default.aspx
+22/07/2009  00:26               168 SMime.aspx
+               3 File(s)          1,235 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\SMS
+
+22/07/2009  00:26             4,123 EditNotification.aspx
+               1 File(s)          4,123 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Supervision
+
+22/07/2009  00:26             2,131 AddSupervisionListEntry.aspx
+               1 File(s)          2,131 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Troubleshooting
+
+22/07/2009  00:26               262 default.aspx
+22/07/2009  00:26             6,336 ViewMobileDevice.aspx
+               2 File(s)          6,598 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\UsersGroups
+
+22/07/2009  00:26             1,848 AddProxyEmailAddress.aspx
+22/07/2009  00:26               262 default.aspx
+22/07/2009  00:26             3,646 EditAdminRoleGroup.aspx
+22/07/2009  00:26            16,753 EditContact.aspx
+22/07/2009  00:26            21,202 EditDistributionGroup.aspx
+22/07/2009  00:26            21,538 EditMailbox.aspx
+22/07/2009  00:26             1,824 EditProxyEmailAddress.aspx
+22/07/2009  00:26             6,079 EditRoleAssignmentPolicy.aspx
+22/07/2009  00:26             8,425 EditWLCDMailbox.aspx
+22/07/2009  00:26             2,894 ImportUsers.aspx
+22/07/2009  00:26             1,008 Mailboxes.aspx
+22/07/2009  00:26               262 myorg.aspx
+22/07/2009  00:26             4,537 NewContact.aspx
+22/07/2009  00:26            11,695 NewDistributionGroup.aspx
+22/07/2009  00:26            15,651 NewMailbox.aspx
+22/07/2009  00:26             4,077 ResetPassword.aspx
+22/07/2009  00:26             2,003 ViewAdminRoleGroupDetails.aspx
+22/07/2009  00:26             2,812 ViewProvisioningRequest.aspx
+22/07/2009  00:26             3,633 ViewRoleAssignmentPolicy.aspx
+              19 File(s)        130,149 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\Owa
+
+25/09/2009  04:59             3,777 casredirect.aspx
+22/07/2009  00:28               853 default.aspx
+25/09/2009  04:59               202 disabled.aspx
+25/09/2009  04:59             3,487 info.aspx
+25/09/2009  04:59             5,419 languageselection.aspx
+25/09/2009  04:59             1,643 redir.aspx
+25/09/2009  04:59             1,990 urlblockederror.aspx
+25/09/2009  04:59             1,062 WebReadyView.aspx
+25/09/2009  04:59               877 WebReadyViewBody.aspx
+25/09/2009  04:59             6,841 WebReadyViewHead.aspx
+25/09/2009  04:59             1,848 WebReadyViewIndicator.aspx
+              11 File(s)         27,999 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\Owa\auth
+
+25/09/2009  04:59             8,226 error.aspx
+25/09/2009  04:59             1,740 error2.aspx
+25/09/2009  04:59             5,827 logoff.aspx
+25/09/2009  04:59            13,278 logon.aspx
+               4 File(s)         29,071 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\Owa\forms\basic
+
+25/09/2009  04:59             4,241 basicaddressbook.aspx
+25/09/2009  04:59             3,850 basicattachmentmanager.aspx
+25/09/2009  04:59             4,279 basicautosaveinfo.aspx
+25/09/2009  04:59             6,932 basiccalendaritemschedulingtab.aspx
+25/09/2009  04:59             3,283 basiccalendarview.aspx
+25/09/2009  04:59             3,368 basicclientstrings.aspx
+25/09/2009  04:59             3,610 basiccontactview.aspx
+25/09/2009  04:59             2,509 basiccontactviewwebpart.aspx
+25/09/2009  04:59            17,541 basiceditcalendaritem.aspx
+25/09/2009  04:59             6,380 basiceditcontact.aspx
+25/09/2009  04:59            11,688 basiceditmeetingresponse.aspx
+25/09/2009  04:59             8,825 basiceditmessage.aspx
+25/09/2009  04:59            14,618 basiceditrecurrence.aspx
+25/09/2009  04:59             3,654 basicfoldermanagement.aspx
+25/09/2009  04:59            12,683 basicmeetingpage.aspx
+25/09/2009  04:59             4,108 basicmessageview.aspx
+25/09/2009  04:59             2,649 basicmessageviewwebpart.aspx
+25/09/2009  04:59             4,136 basicmoveitem.aspx
+25/09/2009  04:59             3,530 basicoptions.aspx
+25/09/2009  04:59             4,388 basicreadaddistributionlist.aspx
+25/09/2009  04:59             4,458 basicreadadorgperson.aspx
+25/09/2009  04:59             4,430 basicreadcontact.aspx
+25/09/2009  04:59             4,888 basicreaddistributionlist.aspx
+25/09/2009  04:59             7,053 basicreadmessage.aspx
+              24 File(s)        147,101 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\Owa\forms\premium
+
+25/09/2009  04:59             2,080 aboutoptions.aspx
+25/09/2009  04:59             2,701 addcontact.aspx
+25/09/2009  04:59             2,987 addressbook.aspx
+25/09/2009  04:59             5,531 attachfiledialog.aspx
+25/09/2009  04:59               627 attachfilehost.aspx
+25/09/2009  04:59             6,253 calendaritemrecurrence.aspx
+25/09/2009  04:59            10,481 calendaritemschedulingtab.aspx
+25/09/2009  04:59               739 calendaritemtrackingtab.aspx
+25/09/2009  04:59             7,151 calendarview.aspx
+25/09/2009  04:59             5,821 changepassword.aspx
+25/09/2009  04:59             3,483 chatwindow.aspx
+25/09/2009  04:59            29,796 clientstrings.aspx
+25/09/2009  04:59               267 closewindow.aspx
+25/09/2009  04:59             1,602 cobrandingdiagnostics.aspx
+25/09/2009  04:59             1,951 contactviewwebpart.aspx
+25/09/2009  04:59             4,981 documentview.aspx
+25/09/2009  04:59            17,433 editcalendaritem.aspx
+25/09/2009  04:59             4,903 editcontact.aspx
+25/09/2009  04:59             4,967 editdistributionlist.aspx
+25/09/2009  04:59             9,702 editmeetingresponse.aspx
+25/09/2009  04:59            15,523 editmessage.aspx
+25/09/2009  04:59             9,027 editpaa.aspx
+25/09/2009  04:59             5,985 editpost.aspx
+25/09/2009  04:59             7,239 editsharingmessage.aspx
+25/09/2009  04:59             4,965 editsms.aspx
+25/09/2009  04:59            11,500 edittask.aspx
+25/09/2009  04:59             6,289 generaloptions.aspx
+25/09/2009  04:59               225 getmime.aspx
+25/09/2009  04:59            13,365 meetingpage.aspx
+25/09/2009  04:59             1,241 messagedetailsdialog.aspx
+25/09/2009  04:59             3,290 messageoptionsdialog.aspx
+25/09/2009  04:59            10,533 messageview.aspx
+25/09/2009  04:59             3,209 messageviewwebpart.aspx
+25/09/2009  04:59             4,290 performanceconsole.aspx
+25/09/2009  04:59            10,484 printmeetingpage.aspx
+25/09/2009  04:59             5,497 printmessage.aspx
+25/09/2009  04:59             5,158 printpost.aspx
+25/09/2009  04:59             3,477 readaddistributionlist.aspx
+25/09/2009  04:59             2,913 readadorgperson.aspx
+25/09/2009  04:59             2,002 readcontact.aspx
+25/09/2009  04:59             1,545 readconversation.aspx
+25/09/2009  04:59             3,696 readdistributionlist.aspx
+25/09/2009  04:59            10,763 readmessage.aspx
+25/09/2009  04:59             6,374 readpost.aspx
+25/09/2009  04:59             5,218 readsharingmessage.aspx
+25/09/2009  04:59             5,170 readtask.aspx
+25/09/2009  04:59            10,399 readvoicemailmessage.aspx
+25/09/2009  04:59               605 smallicons.aspx
+25/09/2009  04:59            10,838 smimeoptions.aspx
+25/09/2009  04:59            10,150 startpage.aspx
+25/09/2009  04:59             1,031 subpageContainer.aspx
+25/09/2009  04:59               617 subpageEventHandler.aspx
+25/09/2009  04:59             6,642 taskrecurrence.aspx
+25/09/2009  04:59             3,182 taskviewwebpart.aspx
+25/09/2009  04:59            16,795 unifiedmessagingoptions.aspx
+              55 File(s)        342,693 bytes
+
+     Total Files Listed:
+             180 File(s)        862,013 bytes
+               0 Dir(s)  88,933,711,872 bytes free

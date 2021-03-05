@@ -1,0 +1,385 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F42C-D0FA
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp
+
+05/02/2013  23:00             5,424 default.aspx
+05/02/2013  23:00             4,238 error.aspx
+               2 File(s)          9,662 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Customize
+
+05/02/2013  23:00             1,449 Calendar.aspx
+05/02/2013  23:00               262 default.aspx
+05/02/2013  23:00             1,875 EditCalendarSharingPermissions.aspx
+05/02/2013  23:00               170 General.aspx
+05/02/2013  23:00             1,493 Messaging.aspx
+05/02/2013  23:00               691 Regional.aspx
+05/02/2013  23:00             1,187 Resource.aspx
+05/02/2013  23:00               740 SentItems.aspx
+05/02/2013  23:00               736 Spelling.aspx
+05/02/2013  23:00               853 VoiceMail.aspx
+05/02/2013  23:00            16,716 VoicemailConfiguration.aspx
+              11 File(s)         26,172 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Helpdesk
+
+05/02/2013  23:00               262 default.aspx
+               1 File(s)            262 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\MyGroups
+
+05/02/2013  23:00               262 default.aspx
+05/02/2013  23:00            24,579 EditDistributionGroup.aspx
+05/02/2013  23:00             2,005 PersonalGroups.aspx
+05/02/2013  23:00             6,112 ViewDistributionGroup.aspx
+               4 File(s)         32,958 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Organize
+
+05/02/2013  23:00               262 default.aspx
+05/02/2013  23:00             2,280 ViewRetentionPolicyTagDetails.aspx
+               2 File(s)          2,542 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\PersonalSettings
+
+05/02/2013  23:00             1,390 ConnectedAccounts.aspx
+05/02/2013  23:00               262 default.aspx
+05/02/2013  23:00             7,268 DeliveryReport.aspx
+05/02/2013  23:00             1,151 DeliveryReportDetail.aspx
+05/02/2013  23:00             8,342 EditAccount.aspx
+05/02/2013  23:00             2,503 EditHotmailSubscription.aspx
+05/02/2013  23:00             7,124 EditImapSubscription.aspx
+05/02/2013  23:00             7,489 EditPopSubscription.aspx
+05/02/2013  23:00             1,294 HomePage.aspx
+05/02/2013  23:00             1,802 ImportContactList.aspx
+05/02/2013  23:00               262 myself.aspx
+05/02/2013  23:00             6,022 NewImapSubscription.aspx
+05/02/2013  23:00             6,445 NewPopSubscription.aspx
+05/02/2013  23:00             2,341 NewSubscription.aspx
+05/02/2013  23:00               177 Password.aspx
+05/02/2013  23:00             3,300 ProtocolSettings.aspx
+05/02/2013  23:00             1,522 VerifySendAs.aspx
+              17 File(s)         58,694 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\PhoneVoice
+
+05/02/2013  23:00               915 ActiveSyncAccess.aspx
+05/02/2013  23:00               262 default.aspx
+05/02/2013  23:00            29,934 EditActiveSyncMailboxPolicy.aspx
+05/02/2013  23:00             3,503 EditActiveSyncSettings.aspx
+05/02/2013  23:00             3,283 EditDeviceAccessRule.aspx
+05/02/2013  23:00            30,895 NewActiveSyncMailboxPolicy.aspx
+05/02/2013  23:00             3,430 NewDeviceAccessRule.aspx
+05/02/2013  23:00             3,334 ViewActiveSyncPolicyDetails.aspx
+               8 File(s)         75,556 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Pickers
+
+05/02/2013  23:00               830 AdminPicker.aspx
+05/02/2013  23:00               921 AllowedSenderPicker.aspx
+05/02/2013  23:00               898 BypassModerationPicker.aspx
+05/02/2013  23:00             1,602 DeviceModelPicker.aspx
+05/02/2013  23:00             1,172 DeviceTypePicker.aspx
+05/02/2013  23:00               889 DiscoveryMailboxPicker.aspx
+05/02/2013  23:00               942 EASMailboxPolicyPicker.aspx
+05/02/2013  23:00               854 EsoPicker.aspx
+05/02/2013  23:00               882 ExtendedMailboxPicker.aspx
+05/02/2013  23:00               900 GroupPicker.aspx
+05/02/2013  23:00               902 JournalReportNdrPicker.aspx
+05/02/2013  23:00               874 MailboxPicker.aspx
+05/02/2013  23:00               917 ManagementRolePicker.aspx
+05/02/2013  23:00               900 ManagerPicker.aspx
+05/02/2013  23:00               902 MemberPicker.aspx
+05/02/2013  23:00               879 ModeratorPicker.aspx
+05/02/2013  23:00               662 OngoingUMDialingRuleGroupPicker.aspx
+05/02/2013  23:00             2,231 OptionalRPTsPicker.aspx
+05/02/2013  23:00               897 OwnerPicker.aspx
+05/02/2013  23:00               855 ResourceDelegatesPicker.aspx
+05/02/2013  23:00               869 RoleGroupPicker.aspx
+05/02/2013  23:00               892 SearchMailboxPicker.aspx
+05/02/2013  23:00             2,183 SecurityPrincipalPicker.aspx
+05/02/2013  23:00               886 SourceMailboxPicker.aspx
+05/02/2013  23:00             1,160 UMAutoAttendantPicker.aspx
+05/02/2013  23:00               952 UMDialingRuleGroupPicker.aspx
+05/02/2013  23:00             1,241 UMDialPlanPicker.aspx
+05/02/2013  23:00               949 UMIPGatewayPicker.aspx
+05/02/2013  23:00             1,096 UMMailboxPicker.aspx
+05/02/2013  23:00             1,041 UMMailboxPolicyPicker.aspx
+05/02/2013  23:00             1,803 ViewManagementroles.aspx
+              31 File(s)         32,981 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Reporting
+
+05/02/2013  23:00               262 default.aspx
+05/02/2013  23:00            15,975 EditMailboxSearch.aspx
+05/02/2013  23:00             2,944 ExportConfigurationChanges.aspx
+05/02/2013  23:00             4,371 ExportMailboxChanges.aspx
+05/02/2013  23:00             2,150 HealthStatusGraph.aspx
+05/02/2013  23:00             1,067 LitigationHoldChangeDetails.aspx
+05/02/2013  23:00             4,171 LitigationHoldChangesReport.aspx
+05/02/2013  23:00               664 MailboxSearches.aspx
+05/02/2013  23:00             6,229 MessageTypePicker.aspx
+05/02/2013  23:00            14,736 NewMailboxSearch.aspx
+05/02/2013  23:00             1,038 NonOwnerAccessDetails.aspx
+05/02/2013  23:00             4,974 NonOwnerAccessReport.aspx
+05/02/2013  23:00             1,306 Reports.aspx
+05/02/2013  23:00             1,041 RoleGroupChangeDetails.aspx
+05/02/2013  23:00             4,121 RoleGroupChangesReport.aspx
+05/02/2013  23:00             7,614 ViewMailboxSearch.aspx
+              16 File(s)         72,663 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Roles
+
+05/02/2013  23:00               262 default.aspx
+               1 File(s)            262 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\RulesEditor
+
+05/02/2013  23:00             2,658 ADAttribute.aspx
+05/02/2013  23:00             2,403 default.aspx
+05/02/2013  23:00               827 EditInboxRule.aspx
+05/02/2013  23:00             1,515 EditJournalReportNdrAddress.aspx
+05/02/2013  23:00             1,066 EditJournalRule.aspx
+05/02/2013  23:00             1,839 EditMailRoutingDomains.aspx
+05/02/2013  23:00             1,093 EditTransportRule.aspx
+05/02/2013  23:00               834 MailRoutingDomainsAndFose.aspx
+05/02/2013  23:00               832 NewInboxRule.aspx
+05/02/2013  23:00             1,066 NewJournalRule.aspx
+05/02/2013  23:00             1,138 NewTransportRule.aspx
+05/02/2013  23:00               818 TransportRulesAndFose.aspx
+05/02/2013  23:00               716 ViewInboxRuleDetails.aspx
+05/02/2013  23:00               647 ViewTransportRuleDetails.aspx
+              14 File(s)         17,452 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Security
+
+05/02/2013  23:00               805 BlockOrAllow.aspx
+05/02/2013  23:00               262 default.aspx
+05/02/2013  23:00               168 SMime.aspx
+               3 File(s)          1,235 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\SMS
+
+05/02/2013  23:00             4,137 EditNotification.aspx
+               1 File(s)          4,137 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Supervision
+
+05/02/2013  23:00             2,763 AddSupervisionListEntry.aspx
+05/02/2013  23:00               928 Safety.aspx
+               2 File(s)          3,691 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\Troubleshooting
+
+05/02/2013  23:00               262 default.aspx
+05/02/2013  23:00             9,466 ViewMobileDevice.aspx
+               2 File(s)          9,728 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\UnifiedMessaging
+
+05/02/2013  23:00             4,193 AddUMExtension.aspx
+05/02/2013  23:00            40,926 EditUMAutoAttendant.aspx
+05/02/2013  23:00            35,193 EditUMDialPlan.aspx
+05/02/2013  23:00             4,470 EditUMIPGateway.aspx
+05/02/2013  23:00            39,434 EditUMMailboxPolicy.aspx
+05/02/2013  23:00            14,777 LauncherUMDialPlan.aspx
+05/02/2013  23:00             4,959 NewUMAutoAttendant.aspx
+05/02/2013  23:00             5,700 NewUMDialPlan.aspx
+05/02/2013  23:00             4,036 NewUMHuntGroup.aspx
+05/02/2013  23:00             3,728 NewUMIPGateway.aspx
+05/02/2013  23:00             3,451 NewUMMailboxPolicy.aspx
+05/02/2013  23:00             3,361 ResetUMMailboxPin.aspx
+05/02/2013  23:00               712 UMCallDataRecord.aspx
+05/02/2013  23:00             6,553 UMCallDataRecordAudioQualityDetails.aspx
+05/02/2013  23:00             6,093 UMCallSummaryAudioQualityDetails.aspx
+05/02/2013  23:00               716 UMCallSummaryReport.aspx
+05/02/2013  23:00             4,827 UMDialingRuleEntry.aspx
+05/02/2013  23:00               922 UMDialPlan.aspx
+05/02/2013  23:00             5,804 UMHolidayScheduleForm.aspx
+05/02/2013  23:00            12,246 UMKeyMappingForm.aspx
+05/02/2013  23:00             2,365 UMScheduler.aspx
+              21 File(s)        204,466 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\ecp\UsersGroups
+
+05/02/2013  23:00             2,465 AddProxyEmailAddress.aspx
+05/02/2013  23:00             5,603 CopyAdminRoleGroup.aspx
+05/02/2013  23:00               262 default.aspx
+05/02/2013  23:00               880 DistributionGroups.aspx
+05/02/2013  23:00             5,898 EditAdminRoleGroup.aspx
+05/02/2013  23:00             1,799 EditArchiveMailbox.aspx
+05/02/2013  23:00            16,790 EditContact.aspx
+05/02/2013  23:00            22,071 EditDistributionGroup.aspx
+05/02/2013  23:00             8,604 EditEASMailbox.aspx
+05/02/2013  23:00             1,879 EditGroupNamingPolicy.aspx
+05/02/2013  23:00             3,201 EditLitigationHold.aspx
+05/02/2013  23:00            27,691 EditMailbox.aspx
+05/02/2013  23:00             2,468 EditProxyEmailAddress.aspx
+05/02/2013  23:00             3,424 EditRoleAssignmentPolicy.aspx
+05/02/2013  23:00            19,552 EditRoomMailbox.aspx
+05/02/2013  23:00             8,807 EditUMMailbox.aspx
+05/02/2013  23:00             8,425 EditWLCDMailbox.aspx
+05/02/2013  23:00             1,955 EnableArchiveMailbox.aspx
+05/02/2013  23:00             7,863 EnableUMMailbox.aspx
+05/02/2013  23:00             2,856 ImportUsers.aspx
+05/02/2013  23:00             1,008 Mailboxes.aspx
+05/02/2013  23:00               262 myorg.aspx
+05/02/2013  23:00             5,562 NewAdminRoleGroup.aspx
+05/02/2013  23:00             4,573 NewContact.aspx
+05/02/2013  23:00            13,447 NewDistributionGroup.aspx
+05/02/2013  23:00            22,723 NewMailbox.aspx
+05/02/2013  23:00             3,214 NewRoleAssignmentPolicy.aspx
+05/02/2013  23:00             7,516 NewRoomMailbox.aspx
+05/02/2013  23:00             4,096 ResetPassword.aspx
+05/02/2013  23:00             2,497 ViewAdminRoleGroupDetails.aspx
+05/02/2013  23:00             2,808 ViewProvisioningRequest.aspx
+05/02/2013  23:00             2,395 ViewRoleAssignmentPolicy.aspx
+              32 File(s)        222,594 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\Owa
+
+05/02/2013  23:00             4,842 casredirect.aspx
+05/02/2013  23:00               853 default.aspx
+05/02/2013  23:00               202 disabled.aspx
+05/02/2013  23:00             3,447 info.aspx
+05/02/2013  23:00             5,421 languageselection.aspx
+05/02/2013  23:00             1,642 redir.aspx
+05/02/2013  23:00             2,008 urlblockederror.aspx
+05/02/2013  23:00             1,061 WebReadyView.aspx
+05/02/2013  23:00             1,292 WebReadyViewBody.aspx
+05/02/2013  23:00             7,406 WebReadyViewHead.aspx
+05/02/2013  23:00             1,651 WebReadyViewIndicator.aspx
+              11 File(s)         29,825 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\Owa\auth
+
+05/02/2013  23:00             8,363 error.aspx
+05/02/2013  23:00             1,888 error2.aspx
+05/02/2013  23:00             7,226 expiredpassword.aspx
+05/02/2013  23:00             6,067 logoff.aspx
+05/02/2013  23:00            13,479 logon.aspx
+               5 File(s)         37,023 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\Owa\forms\basic
+
+05/02/2013  23:00             4,217 basicaddressbook.aspx
+05/02/2013  23:00             3,826 basicattachmentmanager.aspx
+05/02/2013  23:00             4,255 basicautosaveinfo.aspx
+05/02/2013  23:00             6,908 basiccalendaritemschedulingtab.aspx
+05/02/2013  23:00             3,259 basiccalendarview.aspx
+05/02/2013  23:00             3,368 basicclientstrings.aspx
+05/02/2013  23:00             3,586 basiccontactview.aspx
+05/02/2013  23:00             2,485 basiccontactviewwebpart.aspx
+05/02/2013  23:00            17,517 basiceditcalendaritem.aspx
+05/02/2013  23:00             6,356 basiceditcontact.aspx
+05/02/2013  23:00            11,664 basiceditmeetingresponse.aspx
+05/02/2013  23:00             8,801 basiceditmessage.aspx
+05/02/2013  23:00            14,645 basiceditrecurrence.aspx
+05/02/2013  23:00             3,630 basicfoldermanagement.aspx
+05/02/2013  23:00            12,659 basicmeetingpage.aspx
+05/02/2013  23:00             4,084 basicmessageview.aspx
+05/02/2013  23:00             2,625 basicmessageviewwebpart.aspx
+05/02/2013  23:00             4,112 basicmoveitem.aspx
+05/02/2013  23:00             3,506 basicoptions.aspx
+05/02/2013  23:00             4,364 basicreadaddistributionlist.aspx
+05/02/2013  23:00             4,434 basicreadadorgperson.aspx
+05/02/2013  23:00             4,406 basicreadcontact.aspx
+05/02/2013  23:00             4,864 basicreaddistributionlist.aspx
+05/02/2013  23:00             7,029 basicreadmessage.aspx
+              24 File(s)        146,600 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\Owa\forms\mini
+
+05/02/2013  23:00               820 miniaboutpage.aspx
+05/02/2013  23:00               841 miniaddressbook.aspx
+05/02/2013  23:00             1,116 minicalendarview.aspx
+05/02/2013  23:00               841 minicomposenew.aspx
+05/02/2013  23:00               676 miniconfirmdelete.aspx
+05/02/2013  23:00               945 minicontactview.aspx
+05/02/2013  23:00             1,150 minieditcalendaritem.aspx
+05/02/2013  23:00             1,138 minieditcontact.aspx
+05/02/2013  23:00             1,644 minieditfield.aspx
+05/02/2013  23:00             1,462 minieditmessage.aspx
+05/02/2013  23:00             1,126 minieditoptionsoof.aspx
+05/02/2013  23:00               863 minieditoptionstimezone.aspx
+05/02/2013  23:00             1,319 miniedittask.aspx
+05/02/2013  23:00               592 minierror.aspx
+05/02/2013  23:00             1,221 minifindsomeone.aspx
+05/02/2013  23:00             1,258 minifolderview.aspx
+05/02/2013  23:00               945 minihomepage.aspx
+05/02/2013  23:00             1,308 minimessageview.aspx
+05/02/2013  23:00               786 minioptions.aspx
+05/02/2013  23:00               780 minireadaddistributionlist.aspx
+05/02/2013  23:00               766 minireadadorgperson.aspx
+05/02/2013  23:00             1,268 minireadcalendaritem.aspx
+05/02/2013  23:00               906 minireadcalendaritemdetails.aspx
+05/02/2013  23:00             1,050 minireadcontact.aspx
+05/02/2013  23:00             1,036 minireadcontactdetails.aspx
+05/02/2013  23:00               804 minireaddistributionlist.aspx
+05/02/2013  23:00             2,049 minireadmessage.aspx
+05/02/2013  23:00             1,165 minireadmessagedetails.aspx
+05/02/2013  23:00               844 minireadtask.aspx
+05/02/2013  23:00               706 minisavedraft.aspx
+05/02/2013  23:00               943 minitaskview.aspx
+05/02/2013  23:00             1,343 miniviewmeetingrequest.aspx
+05/02/2013  23:00             1,018 miniviewmeetingrequestdetails.aspx
+              33 File(s)         34,729 bytes
+
+ Directory of C:\Program Files\Microsoft\Exchange Server\V14\ClientAccess\Owa\forms\premium
+
+05/02/2013  23:00             2,391 aboutoptions.aspx
+05/02/2013  23:00             2,705 addcontact.aspx
+05/02/2013  23:00             3,450 addressbook.aspx
+05/02/2013  23:00             5,263 attachfiledialog.aspx
+05/02/2013  23:00               584 attachfilehost.aspx
+05/02/2013  23:00             6,410 calendaritemrecurrence.aspx
+05/02/2013  23:00            10,571 calendaritemschedulingtab.aspx
+05/02/2013  23:00               739 calendaritemtrackingtab.aspx
+05/02/2013  23:00             7,562 calendarview.aspx
+05/02/2013  23:00             5,772 changepassword.aspx
+05/02/2013  23:00             3,631 chatwindow.aspx
+05/02/2013  23:00            34,583 clientstrings.aspx
+05/02/2013  23:00               267 closewindow.aspx
+05/02/2013  23:00             1,649 cobrandingdiagnostics.aspx
+05/02/2013  23:00            17,471 editcalendaritem.aspx
+05/02/2013  23:00             5,114 editcontact.aspx
+05/02/2013  23:00             4,775 editdistributionlist.aspx
+05/02/2013  23:00             9,357 editmeetingresponse.aspx
+05/02/2013  23:00            14,656 editmessage.aspx
+05/02/2013  23:00             7,897 editpaa.aspx
+05/02/2013  23:00             5,821 editpost.aspx
+05/02/2013  23:00             7,220 editsharingmessage.aspx
+05/02/2013  23:00             4,746 editsms.aspx
+05/02/2013  23:00            11,565 edittask.aspx
+05/02/2013  23:00             6,308 generaloptions.aspx
+05/02/2013  23:00               225 getmime.aspx
+05/02/2013  23:00            12,927 meetingpage.aspx
+05/02/2013  23:00             1,218 messagedetailsdialog.aspx
+05/02/2013  23:00             3,323 messageoptionsdialog.aspx
+05/02/2013  23:00             7,356 performanceconsole.aspx
+05/02/2013  23:00               626 plt1.aspx
+05/02/2013  23:00             1,291 printcalendarview.aspx
+05/02/2013  23:00            10,983 printmeetingpage.aspx
+05/02/2013  23:00             5,896 printmessage.aspx
+05/02/2013  23:00             5,599 printpost.aspx
+05/02/2013  23:00             3,585 publishedstartpage.aspx
+05/02/2013  23:00             3,446 readaddistributionlist.aspx
+05/02/2013  23:00             2,848 readadorgperson.aspx
+05/02/2013  23:00             2,010 readcontact.aspx
+05/02/2013  23:00             3,686 readdistributionlist.aspx
+05/02/2013  23:00             6,516 readpost.aspx
+05/02/2013  23:00             5,193 readtask.aspx
+05/02/2013  23:00             9,320 readvoicemailmessage.aspx
+05/02/2013  23:00               605 smallicons.aspx
+05/02/2013  23:00            10,805 smimeoptions.aspx
+05/02/2013  23:00            10,891 startpage.aspx
+05/02/2013  23:00             1,187 subpageContainer.aspx
+05/02/2013  23:00               617 subpageEventHandler.aspx
+05/02/2013  23:00             6,799 taskrecurrence.aspx
+05/02/2013  23:00            32,381 unifiedmessagingoptions.aspx
+              50 File(s)        329,840 bytes
+
+     Total Files Listed:
+             291 File(s)      1,353,072 bytes
+               0 Dir(s)  84,969,201,664 bytes free
